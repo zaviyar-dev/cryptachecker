@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cryptachecker/static/css/main.bd971d7b.chunk.css",
-    "main.js": "/cryptachecker/static/js/main.f9452464.chunk.js",
-    "main.js.map": "/cryptachecker/static/js/main.f9452464.chunk.js.map",
+    "main.js": "/cryptachecker/static/js/main.9dae950b.chunk.js",
+    "main.js.map": "/cryptachecker/static/js/main.9dae950b.chunk.js.map",
     "runtime-main.js": "/cryptachecker/static/js/runtime-main.eed615d3.js",
     "runtime-main.js.map": "/cryptachecker/static/js/runtime-main.eed615d3.js.map",
-    "static/js/2.f98c2768.chunk.js": "/cryptachecker/static/js/2.f98c2768.chunk.js",
-    "static/js/2.f98c2768.chunk.js.map": "/cryptachecker/static/js/2.f98c2768.chunk.js.map",
+    "static/js/2.65dfebb3.chunk.js": "/cryptachecker/static/js/2.65dfebb3.chunk.js",
+    "static/js/2.65dfebb3.chunk.js.map": "/cryptachecker/static/js/2.65dfebb3.chunk.js.map",
     "index.html": "/cryptachecker/index.html",
     "static/css/main.bd971d7b.chunk.css.map": "/cryptachecker/static/css/main.bd971d7b.chunk.css.map",
-    "static/js/2.f98c2768.chunk.js.LICENSE.txt": "/cryptachecker/static/js/2.f98c2768.chunk.js.LICENSE.txt",
+    "static/js/2.65dfebb3.chunk.js.LICENSE.txt": "/cryptachecker/static/js/2.65dfebb3.chunk.js.LICENSE.txt",
     "static/media/cryptobckg.ebcf75b7.jpeg": "/cryptachecker/static/media/cryptobckg.ebcf75b7.jpeg",
     "static/media/refresh.2393f92f.png": "/cryptachecker/static/media/refresh.2393f92f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.eed615d3.js",
-    "static/js/2.f98c2768.chunk.js",
+    "static/js/2.65dfebb3.chunk.js",
     "static/css/main.bd971d7b.chunk.css",
-    "static/js/main.f9452464.chunk.js"
+    "static/js/main.9dae950b.chunk.js"
   ]
 }
