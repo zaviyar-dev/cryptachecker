@@ -3,7 +3,7 @@ import Axios from "axios";
 import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import "../Routes/Styles/CoinPage.css";
-import BackgroundImg from "../Images/cryptobckg.jpeg";
+import BackgroundImg from "../Images/bck.jpg";
 
 function CoinPage() {
   let { id } = useParams();
@@ -29,6 +29,9 @@ function CoinPage() {
           backgroundImage: `url(${BackgroundImg})`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
+          backgroundPosition: "fixed",
+          height: "100vh",
+          width: "100%"
         }}
       >
         <div className="coinPage-Info">
@@ -70,7 +73,7 @@ function CoinPage() {
               </h3>
             </div>
           </div>
-          <Link style={{textDecoration:'none'}} to="/">
+          <Link style={{ textDecoration: 'none' }} to="/">
             <div className="coinPage-RouteButton">Go back</div>
           </Link>
         </div>
